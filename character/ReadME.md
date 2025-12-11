@@ -7,6 +7,8 @@ Each query retrieves the following fields: **id, name, status, species, type, ge
 
 All queries were executed using the Rick and Morty GraphQL endpoint:
 
+```
 https://rickandmortyapi.com/graphql
+```
 
 The JSON output files contain the exact responses returned by the API.
